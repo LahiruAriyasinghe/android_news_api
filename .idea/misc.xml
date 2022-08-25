@@ -4,7 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/LIHIRU-PC/Documents/GitHub/android_news_api/android_news_api/app/src/main/res/layout/activity_dashboard.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/LIHIRU-PC/Documents/GitHub/android_news_api/android_news_api/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LIHIRU-PC/Documents/GitHub/android_news_api/android_news_api/app/src/main/res/layout/activity_login.xml" value="0.11197916666666667" />
         <entry key="..\:/Users/LIHIRU-PC/Documents/GitHub/android_news_api/android_news_api/app/src/main/res/layout/activity_main.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/LIHIRU-PC/Documents/GitHub/android_news_api/android_news_api/app/src/main/res/layout/activity_register.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/LIHIRU-PC/Documents/GitHub/android_news_api/android_news_api/app/src/main/res/layout/activity_users_list.xml" value="0.1109375" />
+        <entry key="..\:/Users/LIHIRU-PC/Documents/GitHub/android_news_api/android_news_api/app/src/main/res/layout/item_user_recycler.xml" value="0.1109375" />
       </map>
     </option>
   </component>
